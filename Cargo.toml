@@ -20,7 +20,7 @@ exclude = [
 
 [dependencies]
 thiserror = "1.0"
-bio = "1"
+bio = "2.0.3"
 rand = "0.8.3"
 fxhash = "0"
 partitions = { git = "https://github.com/bluenote-1577/partitions.git" }
